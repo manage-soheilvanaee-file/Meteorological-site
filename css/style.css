@@ -1,0 +1,25 @@
+@media(min-width:768px){
+    .news-group{
+        width: 50%;
+    }
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+footer{
+    color: aliceblue;
+}
+#learn-box,#learn-angular{
+    border-radius: 10px;
+}
+
+#about{
+    border-radius: 20px;
+}
+
+#sooton1,#sooton2:hover{
+    border: 20px;
+    border-color: black;
+}
